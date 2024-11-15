@@ -53,13 +53,13 @@ const sobreMi = {
 ## 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renz21pao&show_icons=true&theme=radical&locale=es" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LUCIANO131231&show_icons=true&theme=radical&locale=es" alt="GitHub Stats" />
 </div>
 
 ## 💻 Lenguajes y Herramientas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renz21pao&layout=compact&theme=radical&locale=es" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCIANO131231&layout=compact&theme=radical&locale=es" alt="Top Langs" />
 </div>
 
 ### Stack Tecnológico:
@@ -74,24 +74,24 @@ const sobreMi = {
 ## 📈 Contribuciones
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renz21pao&theme=radical&locale=es" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LUCIANO131231&theme=radical&locale=es" alt="GitHub Streak" />
 </div>
 
 ## 🚀 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/renz21pao/Flama">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renz21pao&repo=proyecto1&theme=radical" />
+  <a href="https://github.com/LUCIANO131231/Flama">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LUCIANO131231&repo=proyecto1&theme=radical" />
   </a>
-  <a href="https://github.com/renz21pao/imagenes">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=renz21pao&repo=proyecto2&theme=radical" />
+  <a href="https://github.com/LUCIANO131231/imagenes">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LUCIANO131231&repo=proyecto2&theme=radical" />
   </a>
 </div>
 
 ## 🏆 Logros en GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=renz21pao&theme=radical&row=1&column=6" alt="Trofeos" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LUCIANO131231&theme=radical&row=1&column=6" alt="Trofeos" />
 </div>
 
 ## 📫 Conecta Conmigo
@@ -112,9 +112,9 @@ JSON         15 mins         ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ---
-⭐️ From [renz21pao](https://github.com/renz21pao)
+⭐️ From [LUCIANO131231](https://github.com/LUCIANO131231)
 
-<img src="https://komarev.com/ghpvc/?username=renz21pao&label=Visitas%20al%20Perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
+<img src="https://komarev.com/ghpvc/?username=LUCIANO131231&label=Visitas%20al%20Perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
 
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
