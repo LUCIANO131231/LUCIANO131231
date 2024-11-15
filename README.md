@@ -124,4 +124,4 @@ JSON         15 mins         ░░░░░░░░░░░░░░░░░
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 
-![footer](https://github.com/GovindSingh9447/LUCIANO131231/blob/main/WEBP/footer.webp)
+![footer](https://github.com/LUCIANO131231/LUCIANO131231/blob/main/WEBP/footer.webp)
