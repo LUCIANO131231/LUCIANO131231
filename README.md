@@ -148,6 +148,12 @@ JSON         15 mins         ░░░░░░░░░░░░░░░░░
 ---
 ⭐️ From [LUCIANO131231](https://github.com/LUCIANO131231)
 
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
+
 <img src="https://komarev.com/ghpvc/?username=LUCIANO131231&label=Visitas%20al%20Perfil&color=0e75b6&style=flat" alt="Contador de visitas" />
 
 <br><br><br><br><br><br><br>
