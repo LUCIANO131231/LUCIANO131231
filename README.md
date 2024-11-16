@@ -4,6 +4,29 @@
 
 **LUCIANO131231/LUCIANO131231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<div>
+🔴🟡🟢
+
+<br>
+
+</div>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gist/LUCIANO131231/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LUCIANO131231&color=blueviolet" alt="Profile views" />
+  &nbsp;
+  <a href="https://github.com/LUCIANO131231?tab=followers">
+    <img src="https://img.shields.io/github/followers/LUCIANO131231?style=social" alt="Followers" />
+  </a>
+</p>
+
+
+<div>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
