@@ -3,9 +3,8 @@
 <div style="display: flex; align-items: center; justify-content: center; flex-direction: row;">
   🔴🟡🟢
   <br><br>
-  ![Header](/img/github-header-image.png)
-  <p align='center'>
-    <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+  <img src="/img/github-header-image.png" alt="Header" style="margin: 0 10px;">
+  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" allowFullScreen style="margin: 0 10px;">
   <hr>
   <br>
 </div>
