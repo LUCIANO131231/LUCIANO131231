@@ -20,6 +20,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LUCIANO131231&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="200" alt="languages graph" style="margin: 20px 0;" />
 </div>
 
++--------------------------------------+
+| 🕹️ Welcome to the Dev World of Kiran |
++--------------------------------------+
+| 🌟 Role: Full Stack Developer        |
+| 🚀 Skills:                           |
+|    - Python 🐍                       |
+|    - React ⚛️                        |
+|    - Node.js 🌐                      |
+|    - Django 🦄                      |
+|                                      |
+| 🎯 Mission:                          |
+|    1. Learn new skills 🌱            |
+|    2. Build awesome projects 🚀      |
+|    3. Contribute to Open Source ❤️   |
+|                                      |
+|   [ PRESS START TO BEGIN YOUR QUEST ]|
++--------------------------------------+
+
 <div align="center">
   <h2>💻 Languages & Tools</h2>
   
