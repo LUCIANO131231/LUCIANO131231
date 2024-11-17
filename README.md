@@ -4,7 +4,7 @@
   🔴🟡🟢
   <br><br>
   <img src="/img/github-header-image.png" alt="Header" style="margin: 0 10px;">
-  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" allowFullScreen style="margin: 0 10px;">
+  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="170" height="170" frameBorder="0" allowFullScreen style="margin: 0 10px;">
   <hr>
   <br>
 </div>
