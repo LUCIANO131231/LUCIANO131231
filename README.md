@@ -1,12 +1,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🔴🟡🟢
-<br><br>
-![Header](/img/github-header-image.png)
-<p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<div style="display: flex; align-items: center; justify-content: center; flex-direction: row;">
+  <span>🔴🟡🟢</span>
+  <img src="/img/github-header-image.png" alt="Header" style="margin: 0 10px;">
+  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" allowFullScreen style="margin: 0 10px;">
+</div>
 <hr>
 <br>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
