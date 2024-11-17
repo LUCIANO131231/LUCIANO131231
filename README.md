@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div style="text-align: center;">
-  <div style="margin-bottom: 20px;">
+  <div style="margin-bottom: 5px;">
     <img src="https://github-readme-stats.vercel.app/api?username=LUCIANO131231&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="180" alt="stats graph" />
   </div>
   <div>
