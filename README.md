@@ -3,12 +3,8 @@
 <div style="display: flex; align-items: center; justify-content: center; flex-direction: row;">
   🔴🟡🟢
   <br>
-  <div style="display: flex; align-items: center; justify-content: center; gap: 100px;">
-    <img src="/img/github-header-image.png" alt="Header" style="width: auto; height: auto;">
-    <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="180" height="180" frameBorder="0" allowFullScreen>
-  </div>
-
-  <hr>
+  <img src="/img/github-header-image.png" alt="Header" style="margin: 0 40px;">
+  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="180" height="180" frameBorder="0" allowFullScreen>
   <br>
 </div>
 
