@@ -14,30 +14,20 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" style="margin-left: 40px;">
 </div>
 
+<!--Start Intro-->               
+<p align="left">🕹️ +--------------------------------------+ </p>
+# Siempre aprendiendo: 
+¡Cada día es una oportunidad para crecer!
+
+## 🌟
+Soy de Huánuco y estoy a punto de cerrar el capítulo universitario de mi vida. Mientras me preparo para la "última batalla del ciclo", mi misión es convertirme en un frontend master con habilidades épicas en HTML, CSS y JavaScript. Además, tengo un interés casi romántico con la inteligencia artificial (aunque todavía estamos en la fase de conocernos).
+<br><br><br><br><br><br><br><br>
+
 <div align="center" style="margin: 50px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=LUCIANO131231&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="200" alt="stats graph" style="margin: 20px 0;" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LUCIANO131231&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="200" alt="languages graph" style="margin: 20px 0;" />
 </div>
-
-+--------------------------------------+
-| 🕹️ Welcome to the Dev World of Kiran 
-Siempre aprendiendo: "¡Cada día es una oportunidad para crecer!|
-+--------------------------------------+
-| 🌟 Role: Full Stack Developer        |
-| 🚀 Skills:                           |
-|    - Python 🐍                       |
-|    - React ⚛️                        |
-|    - Node.js 🌐                      |
-|    - Django 🦄                      |
-|                                      |
-| 🎯 Mission:                          |
-|    1. Learn new skills 🌱            |
-|    2. Build awesome projects 🚀      |
-|    3. Contribute to Open Source ❤️   |
-|                                      |
-|   [ PRESS START TO BEGIN YOUR QUEST ]|
-+--------------------------------------+
 
 <div align="center">
   <h2>💻 Languages & Tools</h2>
