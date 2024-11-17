@@ -1,5 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<div>
+🔴🟡🟢
+<br>
 <img src="/img/github-header-image.png" alt="Header" style="width: 100%; height: auto;">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -14,48 +16,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LUCIANO131231&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
-
-
-
-
-
-
-## Hi there 👋
-
-**LUCIANO131231/LUCIANO131231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<div>
-🔴🟡🟢
-<br>
-
-</div>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/gist/LUCIANO131231/99b1635ffc5c8e325bdcdd93115f09f9/raw/22c367b789fc8fabb9608e44133eddb3c3c432ce/github-header-image.svg" alt="Card header"/>
-  </div>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=LUCIANO131231&color=blueviolet" alt="Profile views" />
-    &nbsp;
-    <a href="https://github.com/LUCIANO131231?tab=followers">
-      <img src="https://img.shields.io/github/followers/Pepyn0?style=social" alt="Followers" />
-    </a>
-  </p>
-
-
-<div>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-<br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
