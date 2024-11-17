@@ -21,7 +21,8 @@
 </div>
 
 +--------------------------------------+
-| 🕹️ Welcome to the Dev World of Kiran |
+| 🕹️ Welcome to the Dev World of Kiran 
+Siempre aprendiendo: "¡Cada día es una oportunidad para crecer!|
 +--------------------------------------+
 | 🌟 Role: Full Stack Developer        |
 | 🚀 Skills:                           |
