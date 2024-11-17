@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center; justify-content: center; flex-direction: row;">
   🔴🟡🟢
   <br>
-  <img src="/img/github-header-image.png" alt="Header">
+  <img src="/img/github-header-image.png" alt="Header" style="margin: 0 40px;">
   <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="180" height="180" frameBorder="0" allowFullScreen style="margin: 0 10px;">
   <hr>
   <br>
