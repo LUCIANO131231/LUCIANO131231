@@ -20,12 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LUCIANO131231&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="200" alt="languages graph" style="margin: 20px 0;" />
 </div>
 
-
-
-
-
-
-
 <div align="center">
   <h2>💻 Languages & Tools</h2>
   
@@ -35,29 +29,6 @@
     </a>
   </p>
 </div>
-
-
-
-
-
-
-
-<div style="margin: 40px 0;">
-  <p align="left"> 
-    <a href="https://twitter.com/" target="blank">
-      <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" style="margin: 20px 0;" />
-    </a> 
-  </p>
-
-  <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" style="margin: 20px;">
-</div>
-
-<h3 style="margin: 40px 0;">My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" style="margin: 20px;">
-
-<p style="margin: 40px 0;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LUCIANO131231&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" style="margin: 20px 0;" />
-</p>
 
 <p align="center" style="margin: 40px 0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
