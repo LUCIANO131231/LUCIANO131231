@@ -72,19 +72,6 @@
 
 # ¡Hola! 👋 Soy [RENZO LUCIANO]
 
-## 👨‍💻 Sobre mí
-```javascript
-const sobreMi = {
-    rol: "Desarrollador de Software",
-    ubicacion: "Ciudad, País",
-    actualmente: {
-        aprendiendo: ["React", "Node.js", "AWS"],
-        trabajandoEn: "Nombre de tu proyecto actual"
-    },
-    objetivos: ["Contribuir a proyectos open source", "Aprender nuevas tecnologías"]
-};
-```
-
 ## 📊 Mis Estadísticas en GitHub
 
 <div align="center">
