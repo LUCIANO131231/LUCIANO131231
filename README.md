@@ -6,7 +6,8 @@
 </div>
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LUCIANO131231)](https://github.com/LUCIANO131231/github-readme-stats)
+[![LUCIANO131231's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LUCIANO131231)](https://github.com/LUCIANO131231/github-readme-stats)
+
 
 
 
