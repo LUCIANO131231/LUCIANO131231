@@ -2,7 +2,8 @@
 
 <div style="display: flex; align-items: center; justify-content: center; flex-direction: row;">
   🔴🟡🟢
-  <img src="/img/github-header-image.png" alt="Header" style="margin: 0 10px;">
+  <br>
+  <img src="/img/github-header-image.png" alt="Header">
   <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="240" height="240" frameBorder="0" allowFullScreen style="margin: 0 10px;">
   <hr>
   <br>
