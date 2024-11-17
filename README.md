@@ -65,3 +65,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LUCIANO131231&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
