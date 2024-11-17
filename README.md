@@ -20,12 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LUCIANO131231&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LUCIANO131231&theme=neon&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LUCIANO131231&theme=neon&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCIANO131231&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="stats graph"  />
-</div>
-
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <br/>
