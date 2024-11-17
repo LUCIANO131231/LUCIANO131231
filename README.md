@@ -2,7 +2,11 @@
 <div>
 🔴🟡🟢
 <br><br>
-<img src="/img/github-header-image.png" alt="Header" style="width: 100%; height: auto;">
+![Header](/img/github.header.image.png)
+<p align='center'>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<hr>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
