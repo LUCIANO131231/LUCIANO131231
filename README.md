@@ -19,8 +19,6 @@
 # Siempre aprendiendo: 
 ¡Cada día es una oportunidad para crecer!
 
-## 🌟
-Soy de Huánuco y estoy a punto de cerrar el capítulo universitario de mi vida. Mientras me preparo para la "última batalla del ciclo", mi misión es convertirme en un frontend master con habilidades épicas en HTML, CSS y JavaScript. Además, tengo un interés casi romántico con la inteligencia artificial (aunque todavía estamos en la fase de conocernos).
 <br><br><br><br><br><br><br><br>
 
 <div align="center" style="margin: 50px 0;">
