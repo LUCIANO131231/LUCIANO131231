@@ -19,7 +19,7 @@
 # Siempre aprendiendo: 
 ¡Cada día es una oportunidad para crecer!
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 <div align="center" style="margin: 50px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=LUCIANO131231&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="200" alt="stats graph" style="margin: 20px 0;" />
@@ -32,7 +32,7 @@
   
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,css,html,js,discord,figma,firebase,github,gmail,htmx,instagram,linkedin,mongodb,mysql,nodejs,npm,php,pinia,postman,py,sublime,svg,tailwind,twitter,vscode,vue,windows&theme=light" alt="My Skills" style="filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));" />
+      <img src="https://skillicons.dev/icons?i=git,css,html,js,figma,firebase,htmx,mongodb,mysql,nodejs,npm,php,pinia,postman,py,sublime,tailwind,vscode,vue,windows&theme=light" alt="My Skills" style="filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));" />
     </a>
   </p>
 </div>
