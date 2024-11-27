@@ -3,7 +3,7 @@
 <div align="center">
   <span>🔴🟡🟢</span>
   <br>
-  <img src="imageR.png" alt="Header">
+  <img src="/img/image.png" alt="Header">
   <br>
 </div>
 
