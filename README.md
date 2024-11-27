@@ -1,9 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div>
+<div align="center">
   <span>🔴🟡🟢</span>
   <br>
-  <img src="imageR.png" alt="Header" style="margin: 0 60px;">
+  <img src="/img/imageRe.png" alt="Header">
   <br>
 </div>
 
