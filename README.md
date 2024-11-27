@@ -43,3 +43,47 @@
 	<a href="https://www.facebook.com/renzo.luciano.773/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 	<a href="https://www.instagram.com/luciano22q/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
+
+# 🛠️ My Tech Stacks
+
+<h2 align="center">🚀 Frontend</h2>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=9&color=color=0:2EBAA1,100:2EBAA1&section=header&reversal=false&textBg=false&fontAlign=50&descAlign=0&descAlignY=100" width="1000"/>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="70" height="70" alt="HTML" /><br /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="70" height="70" alt="CSS" /><br /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="70" height="70" alt="JavaScript" /><br /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="70" height="70" alt="TypeScript" /><br /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="70" height="70" alt="React" /><br /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vue" width="70" height="70" alt="Vue.js" /><br /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="70" height="70" alt="Tailwind CSS" /><br /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="70" height="70" alt="Figma" /><br /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pinia" width="70" height="70" alt="Pinia" /><br /></td>
+  </tr>
+</table>
+
+<h2 align="center">🔧🌐 Additional Skills</h2>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="70" height="70" alt="Node.js" /><br /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="70" height="70" alt="PHP" /><br /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="70" height="70" alt="Java" /><br /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="70" height="70" alt="Python" /><br /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="70" height="70" alt="MySQL" /><br /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="70" height="70" alt="Postman" /><br /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="70" height="70" alt="MongoDB" /><br /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="70" height="70" alt="Laravel" /><br /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=sublime" width="70" height="70" alt="Sublime Text" /><br /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="70" height="70" alt="Git" /><br /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="70" height="70" alt="Firebase" /><br /></td>
+  </tr>
+</table>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=9&color=color=0:2EBAA1,100:2EBAA1&section=footer&reversal=false&textBg=false&fontAlign=50&descAlign=0&descAlignY=100" width="1000"/>
