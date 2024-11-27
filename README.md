@@ -1,10 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div style="display: flex; align-items: center; justify-content: center; flex-direction: row; margin: 40px 0;">
-  <span style="font-size: 2em; margin: 0 20px;">🔴🟡🟢</span>
+<div>
+  <span>🔴🟡🟢</span>
   <br>
-  <img src="/img/github-header-image.png" alt="Header" style="margin: 0 60px;">
-  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="180" height="180" frameBorder="0" allowFullScreen style="margin: 0 20px;">
+  <img src="imageR.png" alt="Header" style="margin: 0 60px;">
   <br>
 </div>
 
@@ -13,7 +12,7 @@
 <div style="margin: 40px 0;">
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" style="margin-left: 40px;">
 </div>
-
+ <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="180" height="180" frameBorder="0" allowFullScreen style="margin: 0 20px;">
 <!--Start Intro-->               
 <p align="left">🕹️ +--------------------------------------+ </p>
 # Siempre aprendiendo: 
