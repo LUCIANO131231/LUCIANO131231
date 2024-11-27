@@ -1,10 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<span>🔴🟡🟢</span><br><br>
 <div align="center">
-  <span>🔴🟡🟢</span>
-  <br>
-  <img src="/img/image.png" alt="Header">
-  <br>
+  <img src="/img/image.png" alt="Renzo" width="1000"><br>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
