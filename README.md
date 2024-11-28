@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2EBAA1,100:2EBAA1&section=header&reversal=false&textBg=false&fontAlign=50&descAlign=100&descAlignY=50" width="1000"/>
 <span>🔴🟡🟢</span><br><br>
 <div align="center">
-  <img src="/img/image.png" alt="Renzo" >‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎
+  <img src="/img/image.png" alt="Renzo" >‎ ‎ ‎
   <img src="/img/tuvoluntad.png" alt="Yap3" width="150">
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
