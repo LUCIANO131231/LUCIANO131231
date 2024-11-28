@@ -1,10 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2EBAA1,100:2EBAA1&section=header&reversal=false&textBg=false&fontAlign=50&descAlign=100&descAlignY=50" width="1000"/>
 <span>🔴🟡🟢</span><br><br>
 <div align="center">
-  <img src="/img/image.png" alt="Renzo" width="1000"><br>
+  <img src="/img/image.png" alt="Renzo" ><br>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-            
+
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 
 ### 🚀 **Software Engineer** | 🎯 **Tech Enthusiast** | 🌟 **Always Curious**
 
@@ -22,7 +23,14 @@
       <img width="500" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Software Engineer Image"/>
     </td>
   </tr>
-</table>
+</table><br>
+
+<div align=center>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=LUCIANO131231&theme=vue-dark)](https://git.io/streak-stats)
+
+</div>
+
 
 <p align="center">
  <a href="https://www.linkedin.com/in/renzo-luciano/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
