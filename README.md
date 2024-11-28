@@ -81,3 +81,8 @@
   </tr>
 </table>
 <img src="https://capsule-render.vercel.app/api?type=slice&height=9&color=color=0:2EBAA1,100:2EBAA1&section=footer&reversal=false&textBg=false&fontAlign=50&descAlign=0&descAlignY=100" width="1000"/>
+
+<div align=center width="1000">
+
+  ![snake gif](https://github.com/LUCIANO131231/LUCIANO131231/blob/output/ocean.gif)
+</div>
