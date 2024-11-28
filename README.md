@@ -84,5 +84,5 @@
 
 <div align=center width="1000">
 
-  ![snake gif](https://github.com/LUCIANO131231/LUCIANO131231/blob/output/ocean.gif)
+  ![snake gif](https://github.com/LUCIANO131231/LUCIANO131231/blob/output/github-snake-dark.svg)
 </div>
