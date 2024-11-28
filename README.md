@@ -8,7 +8,8 @@
 
 ### 🚀 **Software Engineer** | 🎯 **Tech Enthusiast** | 🌟 **Always Curious**
 
-Siempre aprendiendo: ¡Cada día cuenta para construir algo increíble! 
+### Siempre aprendiendo: 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fire+Code&weight=900&size=16&letterSpacing=2px&pause=1000&color=2EBAA1&width=435&lines=%C2%A1Cada+d%C3%ADa+cuenta+para+construir+algo+incre%C3%ADble!)](https://git.io/typing-svg)
 
 <table>
   <tr>
