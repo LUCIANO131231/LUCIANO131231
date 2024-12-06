@@ -2,7 +2,7 @@
 <span>🔴🟡🟢</span><br><br>
 <div align="center">
   <img src="/img/image.png" alt="Renzo" >‎ ‎ ‎
-  <!-- img src="/img/tuvoluntad.png" alt="Yap3" width="150"-->
+  <img src="/img/tuvoluntad.png" alt="Yap3" width="150"
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
