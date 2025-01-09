@@ -33,8 +33,8 @@
 </table><br>
 
 <div align=center>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=LUCIANO131231&theme=vue-dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LUCIANO131231&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
