@@ -45,7 +45,7 @@
  <a href="https://www.instagram.com/luciano22q/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 
-# 🛠️ My Tech Stacks
+# 🛠️ My Tech Stacks 
 
 <h2 align="center">🚀 Frontend</h2>
 <img src="https://capsule-render.vercel.app/api?type=slice&height=9&color=color=0:2EBAA1,100:2EBAA1&section=header&reversal=false&textBg=false&fontAlign=50&descAlign=0&descAlignY=100" width="1000"/>
