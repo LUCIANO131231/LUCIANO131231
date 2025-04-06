@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2EBAA1,100:2EBAA1&section=header&reversal=false&textBg=false&fontAlign=50&descAlign=100&descAlignY=50" width="1000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2EBAA1,100:2EBAA1&section=header&reversal=false&textBg=false&fontAlign=50&descAlign=100&descAlignY=50" width="1000"/> 
 <span>🔴🟡🟢</span><br><br> 
 <div align="center">
   <img src="/img/image.png" alt="Renzo" >‎ ‎ ‎
