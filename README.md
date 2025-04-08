@@ -13,7 +13,7 @@
 ### Siempre aprendiendo: 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fire+Code&weight=900&size=16&letterSpacing=2px&pause=1000&color=2EBAA1&width=435&lines=%C2%A1Cada+d%C3%ADa+cuenta+para+construir+algo+incre%C3%ADble!)](https://git.io/typing-svg)
 
-<div align=center width="1000px" height="100px">
+<div align=center width="1000px" height="100px"> 
  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LUCIANO131231&theme=default" style="width: 1000px; height: 300px;" alt="GitHub Stats">
 
