@@ -17,7 +17,7 @@
  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LUCIANO131231&theme=default" style="width: 1000px; height: 300px;" alt="GitHub Stats">
 
-</div>
+</div> 
 
 <table>
   <tr>
