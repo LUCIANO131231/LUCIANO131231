@@ -39,7 +39,7 @@
 </div> 
 
 
-<p align="center">
+<p align="center"> 
  <a href="https://www.linkedin.com/in/renzo-luciano/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
  <a href="https://www.facebook.com/renzo.luciano.773/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
  <a href="https://www.instagram.com/luciano22q/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
