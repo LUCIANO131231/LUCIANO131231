@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=pinia" width="70" height="70" alt="Pinia" /><br /></td>
-  </tr>
+  </tr> 
 </table>
 
 <h2 align="center">🔧🌐 Additional Skills</h2>
