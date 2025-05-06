@@ -53,7 +53,7 @@
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="70" height="70" alt="HTML" /><br /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="70" height="70" alt="CSS" /><br /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="70" height="70" alt="JavaScript" /><br /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="70" height="70" alt="JavaScript" /><br /></td> 
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="70" height="70" alt="TypeScript" /><br /></td>
   </tr>
   <tr>
