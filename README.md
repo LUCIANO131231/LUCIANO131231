@@ -67,7 +67,7 @@
   </tr> 
 </table>
 
-<h2 align="center">🔧🌐 Additional Skills</h2>
+<h2 align="center">🔧🌐 Additional Skills</h2> 
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="70" height="70" alt="Node.js" /><br /></td>
