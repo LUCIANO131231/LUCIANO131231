@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2EBAA1,100:2EBAA1&section=header&reversal=false&textBg=false&fontAlign=50&descAlign=100&descAlignY=50" width="1000"/> 
-<span>🔴🟡🟢</span><br><br>   
+<span>🔴🟡🟢</span><br><br>    
 <div align="center">  
   <img src="/img/image.png" alt="Renzo" >‎ ‎ ‎         
   <img src="/img/tuvoluntad.png" alt="Yap3" width="150">        
@@ -37,7 +37,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LUCIANO131231&theme=dark)](https://git.io/streak-stats)
 
 </div>  
-
+ 
 
 <p align="center"> 
  <a href="https://www.linkedin.com/in/renzo-luciano/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
