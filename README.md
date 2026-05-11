@@ -48,7 +48,7 @@
 # 🛠️ My Tech Stacks 
 
 <h2 align="center">🚀 Frontend</h2>
-<img src="https://capsule-render.vercel.app/api?type=slice&height=9&color=color=0:2EBAA1,100:2EBAA1&section=header&reversal=false&textBg=false&fontAlign=50&descAlign=0&descAlignY=100" width="1000"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&height=9&color=color=0:2EBAA1,100:2EBAA1&section=header&reversal=false&textBg=false&fontAlign=50&descAlign=0&descAlignY=100" width="1000"/> 
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="70" height="70" alt="HTML" /><br /></td>
