@@ -29,7 +29,7 @@
     <td align="right"> 
       <img width="500" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Software Engineer Image"/>
     </td>
-  </tr>
+  </tr> 
 </table><br>
 
 <div align=center>
