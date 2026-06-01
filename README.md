@@ -20,7 +20,7 @@
 </div>    
 
 <table>
-  <tr>
+  <tr> 
     <td>
       <img width="480" src="https://github-readme-stats-lake-delta.vercel.app/api?username=LUCIANO131231&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" alt="stats graph"/>  
       <br><br><br>
