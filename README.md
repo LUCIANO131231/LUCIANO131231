@@ -1,14 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2EBAA1,100:2EBAA1&section=header&reversal=false&textBg=false&fontAlign=50&descAlign=100&descAlignY=50" width="1000"/>  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2EBAA1,100:2EBAA1&section=header&reversal=false&textBg=false&fontAlign=50&descAlign=100&descAlignY=50" width="1000"/>
 <span>🔴🟡🟢</span><br><br>
-<div align="center">   
-  <img src="/img/image.png" alt="Renzo" >‎ 
+<div align="center">
+  <img src="/img/image.png" alt="Renzo" >‎
   <img src="/img/tuvoluntad.png" alt="Yap3" width="150">
-</div>       
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/> 
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
   
-### 🚀 **Software Engineer** | 🎯 **Tech Enthusiast** | 🌟 **Always Curious**     
+### 🚀 **Software Engineer** | 🎯 **Tech Enthusiast** | 🌟 **Always Curious**
 
 ### Siempre aprendiendo: 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fire+Code&weight=900&size=16&letterSpacing=2px&pause=1000&color=2EBAA1&width=435&lines=%C2%A1Cada+d%C3%ADa+cuenta+para+construir+algo+incre%C3%ADble!)](https://git.io/typing-svg)
